@@ -13,4 +13,7 @@ git merge <branch>
 
 git pull origin <branchName>
 git push origin <branchName>
+
+git log                   # 'q' to quit
+git tag -a '<v1.0.0>' -m '<release msg>'
 ```
