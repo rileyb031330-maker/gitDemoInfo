@@ -9,4 +9,8 @@ git status
 
 git branch
 git checout -b <branchName>
+git merge <branch>
+
+git pull origin <branchName>
+git push origin <branchName>
 ```
